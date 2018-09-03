@@ -21,6 +21,5 @@
         "psr-0": {
             "Kalani\\ValidationRuleGenerator": "src/"
         }
-    },
-    "minimum-stability": "stable"
+    }
 }
