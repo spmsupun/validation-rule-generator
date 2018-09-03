@@ -2,6 +2,7 @@
     "name": "spmsupun/validation-rule-generator",
     "description": "Laravel 4 class to automatically generate validation rules based on table schema",
     "keywords": ["laravel", "validation", "schema"],
+    "license": "MIT",
     "authors": [
         {
             "name": "Joel Hatch",
