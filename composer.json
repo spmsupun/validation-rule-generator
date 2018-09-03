@@ -1,5 +1,5 @@
 {
-    "name": "kalani/validation-rule-generator",
+    "name": "spmsupun/validation-rule-generator",
     "description": "Laravel 4 class to automatically generate validation rules based on table schema",
     "keywords": ["laravel", "validation", "schema"],
     "authors": [
@@ -9,11 +9,12 @@
         }
     ],
     "require": {
-        "php": ">=5.3.0",
-        "illuminate/support": "4.0.x"
+        "php": ">=7.1",
+        "illuminate/support": "*"
     },
     "require-dev": {
-        "mockery/mockery": "dev-master"
+        "mockery/mockery": "dev-master",
+        "phpunit/phpunit": "^7.4@dev"
     },
     "autoload": {
         "psr-0": {
